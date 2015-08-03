@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reportPanelLayout>
+    <row>
+        <column width="100" border="false">
+            <query internalName="FCI-MACoverPageSummary" format="verticalNameValuePair"/>    
+            <query internalName="Z-Coleta_Assinaturas" format="table"/>         
+        </column>
+    </row>    
+</reportPanelLayout>
